@@ -50,7 +50,7 @@ Reset Added Files From Stage Area :
 	Ex: git reset abc.txt
 
 Ammend Last Commit :
-
+	git commit --amend
 
 
 
