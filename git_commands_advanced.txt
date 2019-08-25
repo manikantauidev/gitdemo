@@ -45,6 +45,11 @@ Checkout to Branch :
 		Else new branch is created with name "development" & then switched to "development"
 
 
+Reset Added Files From Stage Area :
+	git reset *file_name*
+	Ex: git reset abc.txt
+
+Ammend Last Commit :
 
 
 
