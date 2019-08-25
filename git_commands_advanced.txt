@@ -18,8 +18,8 @@ Pull Repo :
 	Ex: git pull origin master
 
 Add files to Stage :
-	git add *1st file_name* *2nd file_name*
-	git add . ('.' takes all the changes & files )
+	1. git add *1st file_name* *2nd file_name*
+	2. git add . ('.' takes all the changes & files )
 
 Commit Files :
 	git commit -m "Your_Message"
@@ -45,12 +45,7 @@ Checkout to Branch :
 		Else new branch is created with name "development" & then switched to "development"
 
 
-Reset Added Files From Stage Area :
-	git reset *file_name*
-	Ex: git reset abc.txt
 
-Ammend Last Commit :
-	git commit --amend
 
 
 
