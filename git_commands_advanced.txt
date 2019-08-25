@@ -1,0 +1,60 @@
+Create repository
+
+	1. Login to git acc.
+	2. Select option to create new repo "New Button"
+	3. Enter repo Name & Description
+	4. Add README.md file & gitignore files if necessary
+
+Cloning Repo :
+	1. git clone -b *branch_name* *git_repo_url*
+		Ex: git clone -b master https://github.com/manikantauidev/gitdemo.git
+
+Cloning with personal access token: 
+	1. git clone -b *branch_name* https://+personal_access_token+:+personal_access_token+@github.com/manikantauidev/gitdemo.git*	
+		Ex: git clone -b master https://123456:123456@github.com/manikantauidev/gitdemo.git
+
+Pull Repo : 
+	git pull origin *branch_name*
+	Ex: git pull origin master
+
+Add files to Stage :
+	git add *1st file_name* *2nd file_name*
+	git add . ('.' takes all the changes & files )
+
+Commit Files :
+	git commit -m "Your_Message"
+
+
+Publish/Pull Changes :
+	git push origin *branch_name*
+	Ex: git push origin master
+
+Pull Repo :
+	git pull origin *branch_name*
+	Ex: git pull origin master
+
+Checkout to Branch :
+	git checkout *branch_name*
+	Ex: git checkout master
+
+	git checkout -b *branch_name*
+	Ex: git checkout -b development
+
+	Above command check for branch "development" exists,
+		If branch is there => Switched to development
+		Else new branch is created with name "development" & then switched to "development"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
