@@ -1,0 +1,18 @@
+Cone Repo :
+	git clone -b *branch_name* *repo_url*
+
+Create Branch :
+
+Checkout to a branch : 
+
+
+
+Pull Repo :
+
+Add files while committing :
+
+Commiting Added Files : 
+
+Push to Repo : 
+
+
